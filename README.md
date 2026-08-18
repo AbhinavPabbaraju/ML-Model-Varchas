@@ -7,10 +7,10 @@
 
 | Field | Details |
 |---|---|
-| Team Name | ____________________ |
-| Team Members (4) | 1. ______  2. ______  3. ______  4. ______ |
-| Team Lead (contact) | Name — Email/Phone |
-| GitHub Repository Link | https://github.com/____________________ |
+| Team Name | Coffee and Code |
+| Team Members (4) | 1. Abhinav Pabbaraju 2. Narayana Kadali 3. Nithin Padmanabhuni  4. Yashwanth D. |
+| Team Lead (contact) | K. Narayana |
+| GitHub Repository Link | https://github.com/AbhinavPabbaraju/ML-Model-Varchas |
 
 ## 2. Repository Structure
 
