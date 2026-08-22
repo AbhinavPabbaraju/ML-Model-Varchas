@@ -1,7 +1,6 @@
 
 # Data ML — Chest X-Ray Multi-Condition Detection
 
-*Fill this out and submit it as README.md in your team's GitHub repository*
 
 ## 1. Team Details
 
@@ -23,23 +22,16 @@
 
 ## 3. Problem Understanding
 
-*Write 3–5 sentences here.*
-
 We are predicting the probability of five conditions — Atelectasis, Effusion, Infiltration, Nodule, and Pneumothorax — for each chest X-ray in the test set. This is a multi-label problem, since a single scan can show multiple conditions or none at all. The core challenge is feature engineering: since deep learning and pretrained models are not permitted, we must hand-design an image representation that captures the visual patterns distinguishing these conditions before applying a classical ML model.
 
 ## 4. Exploratory Data Analysis (EDA)
-
-*Write 1–2 short paragraphs here. Reference any charts included in your /code folder.*
 
 ## 5. Approach & Methodology
 
 ### 5.1 Feature Engineering
 
-*List the key features you engineered and why.*
 
 ### 5.2 Model(s) Used
-
-*Name the model(s), key hyperparameters, and why you chose them.*
 
 ## 6. Results
 
@@ -52,7 +44,6 @@ Predictions file: submitted as `predictions.csv` inside `/predictions`, with col
 
 ## 7. Key Insight
 
-*Write 3–5 sentences here — the ONE most surprising or valuable insight, to present in the Final Round if selected.*
 
 ## 8. Wildcard Challenges Attempted
 
@@ -67,7 +58,6 @@ Predictions file: submitted as `predictions.csv` inside `/predictions`, with col
 
 We confirm that this submission is original work completed by our team during the official event window (Days 1–28), built solely on the officially released dataset, and does not reuse pre-existing projects or another team's code.
 
-*Team Lead name & signature/date*
 
 ---
 
