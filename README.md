@@ -9,7 +9,6 @@
 | Team Name | Coffee and Code |
 | Team Members (4) | 1. Abhinav Pabbaraju 2. Narayana Kadali 3. Nithin Padmanabhuni  4. Yashwanth D. |
 | Team Lead (contact) | K. Narayana |
-| GitHub Repository Link | https://github.com/AbhinavPabbaraju/ML-Model-Varchas |
 
 ## 2. Repository Structure
 
@@ -17,7 +16,7 @@
 ├── code/           # Final notebook(s) or script(s) — must run end-to-end
 ├── predictions/    # predictions.csv on the held-out test set
 ├── README.md       # This write-up
-└── pitch_deck/     # Slide deck for the Final Round (if selected)
+└── pitch_deck/     # Slide deck for the Final Round
 ```
 
 ## 3. Problem Understanding
